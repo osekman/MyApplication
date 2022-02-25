@@ -29,6 +29,7 @@ import com.erp.myapplication.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
+    ///dsfsfs
     private AppBarConfiguration mAppBarConfiguration;
     private ActivityMainBinding binding;
     private String TAG = "MYAPP";
